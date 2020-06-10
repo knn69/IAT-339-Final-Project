@@ -1,0 +1,13 @@
+.wireframe-nav a {
+    display: block;
+}
+
+#desktop img,
+#mobile img {
+    max-height: 80vh;
+}
+
+.desktop-search img,
+.desktop-checkoutprocess img {
+    max-width: 80vw;
+}
